@@ -1,0 +1,16 @@
+@import "~ngx-toastr/toastr.css";
+
+.container-fluid{
+    margin-top: 30px;
+}
+
+#sentencesTable {
+    margin: 20px;
+    height: 400px;
+    overflow-y: auto;
+}
+
+#sentencesTable table{
+    border-radius: 10px;
+}
+
